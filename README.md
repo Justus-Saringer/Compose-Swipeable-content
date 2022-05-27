@@ -13,5 +13,4 @@ to your dependencies
 
 Small preview:
 
-<img src="https://user-images.githubusercontent.com/100854340/170800481-fe69fe04-eabf-4275-87c0-1d1e0c9a3f14.gif" width="40%" height="40%" align="center"/>
-
+<img src="https://user-images.githubusercontent.com/100854340/170800481-fe69fe04-eabf-4275-87c0-1d1e0c9a3f14.gif" width="40%" height="40%"/>
